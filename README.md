@@ -8,4 +8,5 @@ How to get started:
 3. cd s3ro-tool
 4. sudo python3 s3ro_tools.py
 
-ATTENTION: made to be used in linux.
+ATTENTION 1: Don't rename the file or change his directory.
+ATTENTION 2: Made to be used in linux.
