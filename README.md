@@ -1,6 +1,8 @@
 # password-generator
-# Made by: @S3ROx
+# Made by : @S3ROx
+# Version : v1.0
 # https://github.com/S3ROx
+ 
 
 How to get started:
 1. git clone https://github.com/S3ROx/password-generator.git
@@ -8,4 +10,11 @@ How to get started:
 3. cd s3ro-toolkit
 4. sudo python3 s3ro_tools.py
 
-ATTENTION: Don't rename the file or change his directory, made to be used in linux.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Version Histrory:
+
+• v1.0 - Base code + Three option for password to generate.
+
+DISCLAIMER: Don't rename the file or change his directory! Made to be used in linux!
