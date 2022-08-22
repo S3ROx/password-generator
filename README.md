@@ -5,10 +5,10 @@
  
 
 How to get started:
-1. git clone https://github.com/S3ROx/password-generator.git
-2. (if not installed yet, install my toolkit) git clone https://github.com/S3ROx/s3ro-toolkit.git
-3. cd s3ro-toolkit
-4. sudo python3 s3ro_tools.py
+1. (if not installed yet, install my toolkit) git clone https://github.com/S3ROx/s3ro-toolkit.git
+2. cd s3ro-toolkit
+3. sudo python3 s3ro_tools.py
+4. git clone https://github.com/S3ROx/password-generator.git
 
 
 ---------------------------------------------------------------------------------------------------------------------
